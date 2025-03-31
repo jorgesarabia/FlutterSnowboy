@@ -27,7 +27,8 @@ dependencies {
 }
 
 android {
-    compileSdkVersion 33
+    // namespace 'is.mideind.flutter_snowboy'
+    compileSdkVersion 35
 
     defaultConfig {
         minSdkVersion 21
