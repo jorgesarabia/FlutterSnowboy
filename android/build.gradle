@@ -27,7 +27,7 @@ dependencies {
 }
 
 android {
-    // namespace 'is.mideind.flutter_snowboy'
+    namespace 'is.mideind.flutter_snowboy'
     compileSdkVersion 35
 
     defaultConfig {
